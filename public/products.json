@@ -1,0 +1,2852 @@
+[
+  {
+    "title": "iPhone 15 Pro Max",
+    "slug": "iphone-15-pro-max-256gb",
+    "shortDescription": "Titanium design, A17 Pro chip, and pro-grade camera system.",
+    "longDescription": "The iPhone 15 Pro Max features a strong and light aerospace-grade titanium design. It introduces the A17 Pro chip for next-level gaming performance and a versatile 5x Telephoto camera. Includes a customizable Action button and USB-C with USB 3 speeds.",
+    "media": {
+      "featuredImage": "https://example.com/apple/iphone-15-pm-main.jpg",
+      "images": ["https://example.com/apple/1.jpg", "https://example.com/apple/2.jpg"],
+      "videoUrl": "https://example.com/videos/iphone15"
+    },
+    "category": { "main": "Electronics", "sub": "Mobiles", "child": "Smartphones" },
+    "tags": ["flagship", "ios", "trending"],
+    "brand": "Apple",
+    "pricing": {
+      "regularPrice": 1199,
+      "discountPrice": 1099,
+      "discountPercentage": 8,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 5, "pricePerUnit": 1050 }
+    },
+    "variants": [
+      {
+        "variantId": "IP15PM-NT",
+        "color": "Natural Titanium",
+        "size": "256GB",
+        "material": "Titanium/Glass",
+        "weight": "221g",
+        "price": 1099,
+        "stock": 25
+      }
+    ],
+    "inventory": {
+      "sku": "APL-IP15PM-256",
+      "barcode": "194253701234",
+      "stockQuantity": 25,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 5,
+      "warehouseLocation": "Rack-A1"
+    },
+    "shipping": {
+      "weight": "450g",
+      "dimensions": { "length": "18cm", "width": "10cm", "height": "5cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.9, "totalReviews": 450, "reviews": [] },
+    "analytics": { "views": 25000, "soldCount": 120, "addToCartCount": 800, "wishlistCount": 1500 },
+    "specification": { "general": { "model": "A3106" }, "warranty": "1 year international", "manufacturer": "Apple" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-01", "name": "Apple Store", "rating": 4.8, "totalProducts": 150 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Samsung Galaxy S24 Ultra",
+    "slug": "samsung-s24-ultra-titanium",
+    "shortDescription": "Galaxy AI, 200MP camera, and built-in S Pen.",
+    "longDescription": "The Galaxy S24 Ultra is powered by Galaxy AI, offering features like Live Translate and Note Assist. It features a titanium frame and a stunning flat display. The 200MP camera system sets a new standard for mobile photography.",
+    "media": {
+      "featuredImage": "https://example.com/samsung/s24u-main.jpg",
+      "images": ["https://example.com/samsung/s24-1.jpg"],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Mobiles", "child": "Smartphones" },
+    "tags": ["android", "premium", "popular"],
+    "brand": "Samsung",
+    "pricing": {
+      "regularPrice": 1299,
+      "discountPrice": 1150,
+      "discountPercentage": 11,
+      "flashSalePrice": 1100,
+      "bulkPrice": { "minQty": 10, "pricePerUnit": 1000 }
+    },
+    "variants": [
+      {
+        "variantId": "S24U-BLK",
+        "color": "Titanium Black",
+        "size": "512GB",
+        "material": "Titanium",
+        "weight": "232g",
+        "price": 1150,
+        "stock": 18
+      }
+    ],
+    "inventory": {
+      "sku": "SAM-S24U-512",
+      "barcode": "880609530000",
+      "stockQuantity": 18,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 3,
+      "warehouseLocation": "Rack-B2"
+    },
+    "shipping": {
+      "weight": "500g",
+      "dimensions": { "length": "19cm", "width": "11cm", "height": "6cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": false,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.7, "totalReviews": 320, "reviews": [] },
+    "analytics": { "views": 18000, "soldCount": 95, "addToCartCount": 650, "wishlistCount": 1200 },
+    "specification": { "general": { "model": "SM-S928B" }, "warranty": "1 year official", "manufacturer": "Samsung" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "Free Wireless Charger", "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": "2024-12-31T23:59:59Z" },
+    "returnPolicy": { "isReturnable": true, "returnDays": 10, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-02", "name": "Samsung Plaza", "rating": 4.6, "totalProducts": 210 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Google Pixel 8 Pro",
+    "slug": "google-pixel-8-pro-bay",
+    "shortDescription": "The best of Google AI and the most advanced Pixel camera.",
+    "longDescription": "Pixel 8 Pro is the all-pro phone engineered by Google. It’s sleek, sophisticated, and has the most powerful Google Tensor G3 chip yet. It features advanced AI for photo and video editing.",
+    "media": {
+      "featuredImage": "https://example.com/google/pixel-8-main.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Mobiles", "child": "Smartphones" },
+    "tags": ["google", "stock-android"],
+    "brand": "Google",
+    "pricing": {
+      "regularPrice": 999,
+      "discountPrice": 899,
+      "discountPercentage": 10,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 5, "pricePerUnit": 850 }
+    },
+    "variants": [
+      {
+        "variantId": "G-P8P-BAY",
+        "color": "Bay Blue",
+        "size": "128GB",
+        "material": "Aluminium/Glass",
+        "weight": "213g",
+        "price": 899,
+        "stock": 12
+      }
+    ],
+    "inventory": {
+      "sku": "GGL-P8P-128",
+      "barcode": "840244700000",
+      "stockQuantity": 12,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 4,
+      "warehouseLocation": "Rack-C1"
+    },
+    "shipping": {
+      "weight": "420g",
+      "dimensions": { "length": "17cm", "width": "9cm", "height": "4cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.5, "totalReviews": 180, "reviews": [] },
+    "analytics": { "views": 12000, "soldCount": 45, "addToCartCount": 300, "wishlistCount": 800 },
+    "specification": { "general": { "model": "GC3VE" }, "warranty": "1 year service", "manufacturer": "Google" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-03", "name": "Pixel Hub", "rating": 4.4, "totalProducts": 45 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "OnePlus 12",
+    "slug": "oneplus-12-silky-black",
+    "shortDescription": "Smooth Beyond Belief. Snapdragon 8 Gen 3 flagship.",
+    "longDescription": "OnePlus 12 redefined the meaning of smooth. With an industry-leading display, 50MP triple camera system, and ultra-fast charging, it's built for those who never settle.",
+    "media": {
+      "featuredImage": "https://example.com/oneplus/op12-main.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Mobiles", "child": "Smartphones" },
+    "tags": ["fast-charging", "oneplus"],
+    "brand": "OnePlus",
+    "pricing": {
+      "regularPrice": 799,
+      "discountPrice": 749,
+      "discountPercentage": 6,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 2, "pricePerUnit": 730 }
+    },
+    "variants": [
+      {
+        "variantId": "OP12-BLK",
+        "color": "Silky Black",
+        "size": "256GB",
+        "material": "Metal/Glass",
+        "weight": "220g",
+        "price": 749,
+        "stock": 30
+      }
+    ],
+    "inventory": {
+      "sku": "OP-12-256",
+      "barcode": "692181562000",
+      "stockQuantity": 30,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 5,
+      "warehouseLocation": "Rack-A3"
+    },
+    "shipping": {
+      "weight": "480g",
+      "dimensions": { "length": "18cm", "width": "10cm", "height": "5cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": false,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.6, "totalReviews": 110, "reviews": [] },
+    "analytics": { "views": 8500, "soldCount": 60, "addToCartCount": 200, "wishlistCount": 450 },
+    "specification": { "general": { "model": "CPH2581" }, "warranty": "1 year official", "manufacturer": "OnePlus" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-04", "name": "Global Tech", "rating": 4.5, "totalProducts": 320 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Xiaomi 14 Ultra",
+    "slug": "xiaomi-14-ultra-white",
+    "shortDescription": "Leica Optics, Snapdragon 8 Gen 3.",
+    "longDescription": "Xiaomi 14 Ultra represents the peak of professional photography in a smartphone. Developed with Leica, it features a 1-inch sensor and incredible zoom capabilities.",
+    "media": {
+      "featuredImage": "https://example.com/xiaomi/x14-main.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Mobiles", "child": "Smartphones" },
+    "tags": ["camera", "leica"],
+    "brand": "Xiaomi",
+    "pricing": {
+      "regularPrice": 1099,
+      "discountPrice": 999,
+      "discountPercentage": 9,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 3, "pricePerUnit": 950 }
+    },
+    "variants": [
+      {
+        "variantId": "X14U-WHT",
+        "color": "White",
+        "size": "512GB",
+        "material": "Vegan Leather",
+        "weight": "220g",
+        "price": 999,
+        "stock": 15
+      }
+    ],
+    "inventory": {
+      "sku": "XIA-14U-512",
+      "barcode": "694181270000",
+      "stockQuantity": 15,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 2,
+      "warehouseLocation": "Rack-B4"
+    },
+    "shipping": {
+      "weight": "460g",
+      "dimensions": { "length": "18cm", "width": "10cm", "height": "5cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.8, "totalReviews": 90, "reviews": [] },
+    "analytics": { "views": 7000, "soldCount": 35, "addToCartCount": 150, "wishlistCount": 500 },
+    "specification": { "general": { "model": "24030PN60G" }, "warranty": "1 year official", "manufacturer": "Xiaomi" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "Photography Kit", "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-05", "name": "Xiaomi Store", "rating": 4.7, "totalProducts": 500 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "iPad Pro 11 inch M4",
+    "slug": "ipad-pro-11-m4-2024",
+    "shortDescription": "Thin. Light. Powerful. The new M4 chip.",
+    "longDescription": "The new iPad Pro is impossibly thin, featuring outrageous performance with the Apple M4 chip, a breakthrough Ultra Retina XDR display, and superfast Wi-Fi 6E.",
+    "media": {
+      "featuredImage": "https://example.com/apple/ipad-m4.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Computers", "child": "Tablets" },
+    "tags": ["apple", "m4", "pro"],
+    "brand": "Apple",
+    "pricing": {
+      "regularPrice": 999,
+      "discountPrice": 949,
+      "discountPercentage": 5,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 5, "pricePerUnit": 900 }
+    },
+    "variants": [
+      {
+        "variantId": "IPAD-M4-SLV",
+        "color": "Silver",
+        "size": "256GB",
+        "material": "Aluminium",
+        "weight": "444g",
+        "price": 949,
+        "stock": 20
+      }
+    ],
+    "inventory": {
+      "sku": "APL-IPAD-M4",
+      "barcode": "195949000000",
+      "stockQuantity": 20,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 5,
+      "warehouseLocation": "Rack-D1"
+    },
+    "shipping": {
+      "weight": "900g",
+      "dimensions": { "length": "28cm", "width": "20cm", "height": "3cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 80,
+      "deliveryChargeOutsideCity": 150,
+      "freeShipping": false,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.9, "totalReviews": 65, "reviews": [] },
+    "analytics": { "views": 15000, "soldCount": 40, "addToCartCount": 400, "wishlistCount": 900 },
+    "specification": { "general": { "model": "A2836" }, "warranty": "1 year international", "manufacturer": "Apple" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-01", "name": "Apple Store", "rating": 4.8, "totalProducts": 150 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Samsung Galaxy Tab S9 Ultra",
+    "slug": "samsung-tab-s9-ultra",
+    "shortDescription": "The biggest screen for the biggest ideas.",
+    "longDescription": "The Galaxy Tab S9 Ultra features an massive 14.6 inch Dynamic AMOLED 2X display. It is IP68 water and dust resistant, making it durable for any environment.",
+    "media": {
+      "featuredImage": "https://example.com/samsung/tab-s9u.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Computers", "child": "Tablets" },
+    "tags": ["android-tablet", "large-screen"],
+    "brand": "Samsung",
+    "pricing": {
+      "regularPrice": 1199,
+      "discountPrice": 1050,
+      "discountPercentage": 12,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 2, "pricePerUnit": 1000 }
+    },
+    "variants": [
+      {
+        "variantId": "TAB-S9U-GRY",
+        "color": "Graphite",
+        "size": "256GB",
+        "material": "Aluminium",
+        "weight": "732g",
+        "price": 1050,
+        "stock": 10
+      }
+    ],
+    "inventory": {
+      "sku": "SAM-TAB-S9U",
+      "barcode": "880609500000",
+      "stockQuantity": 10,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 2,
+      "warehouseLocation": "Rack-D2"
+    },
+    "shipping": {
+      "weight": "1.2kg",
+      "dimensions": { "length": "35cm", "width": "25cm", "height": "4cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 80,
+      "deliveryChargeOutsideCity": 150,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.7, "totalReviews": 45, "reviews": [] },
+    "analytics": { "views": 9000, "soldCount": 20, "addToCartCount": 150, "wishlistCount": 400 },
+    "specification": { "general": { "model": "SM-X910" }, "warranty": "1 year official", "manufacturer": "Samsung" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "Free Keyboard Cover", "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-02", "name": "Samsung Plaza", "rating": 4.6, "totalProducts": 210 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Microsoft Surface Pro 9",
+    "slug": "surface-pro-9-i7-16gb",
+    "shortDescription": "Laptop power with tablet flexibility.",
+    "longDescription": "Surface Pro 9 gives you the tablet flexibility you want and the laptop performance and battery life you need to move through your day.",
+    "media": {
+      "featuredImage": "https://example.com/ms/surface-pro-9.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Computers", "child": "Tablets" },
+    "tags": ["windows", "2-in-1", "work"],
+    "brand": "Microsoft",
+    "pricing": {
+      "regularPrice": 1599,
+      "discountPrice": 1399,
+      "discountPercentage": 13,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 5, "pricePerUnit": 1350 }
+    },
+    "variants": [
+      {
+        "variantId": "SUR-P9-I7",
+        "color": "Sapphire",
+        "size": "512GB",
+        "material": "Metal",
+        "weight": "879g",
+        "price": 1399,
+        "stock": 8
+      }
+    ],
+    "inventory": {
+      "sku": "MS-SP9-512",
+      "barcode": "889842000000",
+      "stockQuantity": 8,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 2,
+      "warehouseLocation": "Rack-D3"
+    },
+    "shipping": {
+      "weight": "1.5kg",
+      "dimensions": { "length": "32cm", "width": "23cm", "height": "5cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 80,
+      "deliveryChargeOutsideCity": 150,
+      "freeShipping": false,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.4, "totalReviews": 35, "reviews": [] },
+    "analytics": { "views": 5000, "soldCount": 12, "addToCartCount": 80, "wishlistCount": 200 },
+    "specification": { "general": { "model": "SP9-I7" }, "warranty": "1 year local", "manufacturer": "Microsoft" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-06", "name": "Microsoft Store", "rating": 4.5, "totalProducts": 100 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "OnePlus Pad",
+    "slug": "oneplus-pad-halo-green",
+    "shortDescription": "The first ever tablet from OnePlus.",
+    "longDescription": "The OnePlus Pad features a 144Hz 7:5 Read-Fit display and is powered by Dimensity 9000. It offers a smooth, fast experience for work and play.",
+    "media": {
+      "featuredImage": "https://example.com/oneplus/pad.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Computers", "child": "Tablets" },
+    "tags": ["oneplus-pad", "fast-display"],
+    "brand": "OnePlus",
+    "pricing": {
+      "regularPrice": 479,
+      "discountPrice": 449,
+      "discountPercentage": 6,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 3, "pricePerUnit": 430 }
+    },
+    "variants": [
+      {
+        "variantId": "OP-PAD-GRN",
+        "color": "Halo Green",
+        "size": "128GB",
+        "material": "Metal",
+        "weight": "552g",
+        "price": 449,
+        "stock": 15
+      }
+    ],
+    "inventory": {
+      "sku": "OP-PAD-128",
+      "barcode": "692181500000",
+      "stockQuantity": 15,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 3,
+      "warehouseLocation": "Rack-D4"
+    },
+    "shipping": {
+      "weight": "1kg",
+      "dimensions": { "length": "30cm", "width": "22cm", "height": "4cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 80,
+      "deliveryChargeOutsideCity": 150,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.6, "totalReviews": 40, "reviews": [] },
+    "analytics": { "views": 6000, "soldCount": 25, "addToCartCount": 120, "wishlistCount": 350 },
+    "specification": { "general": { "model": "OPD2203" }, "warranty": "1 year official", "manufacturer": "OnePlus" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-04", "name": "Global Tech", "rating": 4.5, "totalProducts": 320 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Nothing Phone (2)",
+    "slug": "nothing-phone-2-dark-grey",
+    "shortDescription": "Come to the bright side. Glyph interface.",
+    "longDescription": "Nothing Phone (2) features a uniquely designed Glyph Interface on the back, e Snapdragon 8+ Gen 1 chip, and a 50MP dual camera setup.",
+    "media": {
+      "featuredImage": "https://example.com/nothing/phone2.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Mobiles", "child": "Smartphones" },
+    "tags": ["design", "nothing"],
+    "brand": "Nothing",
+    "pricing": {
+      "regularPrice": 649,
+      "discountPrice": 599,
+      "discountPercentage": 8,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 5, "pricePerUnit": 580 }
+    },
+    "variants": [
+      {
+        "variantId": "NOT-P2-GRY",
+        "color": "Dark Grey",
+        "size": "256GB",
+        "material": "Glass/Metal",
+        "weight": "201g",
+        "price": 599,
+        "stock": 10
+      }
+    ],
+    "inventory": {
+      "sku": "NOT-P2-256",
+      "barcode": "506000000000",
+      "stockQuantity": 10,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 2,
+      "warehouseLocation": "Rack-A4"
+    },
+    "shipping": {
+      "weight": "400g",
+      "dimensions": { "length": "17cm", "width": "9cm", "height": "4cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": false,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.5, "totalReviews": 85, "reviews": [] },
+    "analytics": { "views": 10000, "soldCount": 30, "addToCartCount": 200, "wishlistCount": 600 },
+    "specification": { "general": { "model": "A065" }, "warranty": "1 year official", "manufacturer": "Nothing" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-07", "name": "Nothing Store", "rating": 4.6, "totalProducts": 10 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "MacBook Pro 14-inch M3 Pro",
+    "slug": "macbook-pro-14-m3-pro-space-black",
+    "shortDescription": "Mind-blowing power. Eye-opening display. Pro in every way.",
+    "longDescription": "The 14-inch MacBook Pro with M3 Pro chip delivers extreme performance and amazing battery life. Featuring a stunning Liquid Retina XDR display, a wide array of pro ports, and a sophisticated Space Black finish, it's designed for creators and developers who demand the best.",
+    "media": {
+      "featuredImage": "https://example.com/apple/mbp14-main.jpg",
+      "images": ["https://example.com/apple/mbp-1.jpg", "https://example.com/apple/mbp-2.jpg"],
+      "videoUrl": "https://example.com/videos/mbp-m3"
+    },
+    "category": { "main": "Electronics", "sub": "Computers", "child": "Laptops" },
+    "tags": ["macbook", "m3-pro", "developer"],
+    "brand": "Apple",
+    "pricing": {
+      "regularPrice": 1999,
+      "discountPrice": 1849,
+      "discountPercentage": 7,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 3, "pricePerUnit": 1799 }
+    },
+    "variants": [
+      {
+        "variantId": "MBP14-M3P-SB",
+        "color": "Space Black",
+        "size": "18GB RAM / 512GB SSD",
+        "material": "Aluminium",
+        "weight": "1.61kg",
+        "price": 1849,
+        "stock": 15
+      }
+    ],
+    "inventory": {
+      "sku": "APL-MBP14-M3P",
+      "barcode": "195949123456",
+      "stockQuantity": 15,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 3,
+      "warehouseLocation": "Rack-L1"
+    },
+    "shipping": {
+      "weight": "2.8kg",
+      "dimensions": { "length": "35cm", "width": "26cm", "height": "8cm" },
+      "shippingClass": "Fragile",
+      "deliveryChargeInsideCity": 100,
+      "deliveryChargeOutsideCity": 250,
+      "freeShipping": true,
+      "cashOnDelivery": false
+    },
+    "ratings": { "averageRating": 4.9, "totalReviews": 850, "reviews": [] },
+    "analytics": { "views": 45000, "soldCount": 210, "addToCartCount": 950, "wishlistCount": 2500 },
+    "specification": { "general": { "model": "MRX33LL/A" }, "warranty": "1 year international", "manufacturer": "Apple" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "Free Laptop Sleeve", "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-01", "name": "Apple Store", "rating": 4.8, "totalProducts": 150 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "ASUS ROG Zephyrus G14 (2024)",
+    "slug": "asus-rog-zephyrus-g14-2024",
+    "shortDescription": "OLED Display, RTX 4070, Ultra-portable gaming.",
+    "longDescription": "The 2024 Zephyrus G14 is a masterpiece of engineering. It features a gorgeous OLED Nebula Display and is powered by the latest Ryzen 9 processor and NVIDIA RTX 4070 graphics. All this power in a thin and light 14-inch chassis.",
+    "media": {
+      "featuredImage": "https://example.com/asus/g14-main.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Computers", "child": "Gaming Laptops" },
+    "tags": ["gaming", "rtx-4070", "oled"],
+    "brand": "ASUS",
+    "pricing": {
+      "regularPrice": 1799,
+      "discountPrice": 1699,
+      "discountPercentage": 6,
+      "flashSalePrice": 1650,
+      "bulkPrice": { "minQty": 2, "pricePerUnit": 1600 }
+    },
+    "variants": [
+      {
+        "variantId": "ASU-G14-GRY",
+        "color": "Eclipse Gray",
+        "size": "32GB RAM / 1TB SSD",
+        "material": "Magnesium Alloy",
+        "weight": "1.50kg",
+        "price": 1699,
+        "stock": 10
+      }
+    ],
+    "inventory": {
+      "sku": "ASU-G14-4070",
+      "barcode": "471108112345",
+      "stockQuantity": 10,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 2,
+      "warehouseLocation": "Rack-L2"
+    },
+    "shipping": {
+      "weight": "2.5kg",
+      "dimensions": { "length": "34cm", "width": "25cm", "height": "7cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 80,
+      "deliveryChargeOutsideCity": 180,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.7, "totalReviews": 120, "reviews": [] },
+    "analytics": { "views": 15000, "soldCount": 45, "addToCartCount": 300, "wishlistCount": 1200 },
+    "specification": { "general": { "model": "GA403" }, "warranty": "2 years global", "manufacturer": "ASUS" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "ROG Backpack", "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": "2024-12-31T23:59:59Z" },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-08", "name": "ROG Store", "rating": 4.9, "totalProducts": 85 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Dell XPS 13 Plus",
+    "slug": "dell-xps-13-plus-9320",
+    "shortDescription": "Minimalist design, maximum performance.",
+    "longDescription": "XPS 13 Plus is twice as powerful as before in the same size. It features 12th Gen Intel Core processors and an innovative capacitive touch function row and seamless glass haptic touchpad.",
+    "media": {
+      "featuredImage": "https://example.com/dell/xps13-main.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Computers", "child": "Ultrabooks" },
+    "tags": ["ultrabook", "premium", "windows"],
+    "brand": "Dell",
+    "pricing": {
+      "regularPrice": 1499,
+      "discountPrice": 1299,
+      "discountPercentage": 13,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 5, "pricePerUnit": 1250 }
+    },
+    "variants": [
+      {
+        "variantId": "DELL-XPS13-SLV",
+        "color": "Platinum",
+        "size": "16GB RAM / 512GB SSD",
+        "material": "Machined Aluminum",
+        "weight": "1.23kg",
+        "price": 1299,
+        "stock": 20
+      }
+    ],
+    "inventory": {
+      "sku": "DELL-XPS-9320",
+      "barcode": "884116410000",
+      "stockQuantity": 20,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 4,
+      "warehouseLocation": "Rack-L1"
+    },
+    "shipping": {
+      "weight": "2.2kg",
+      "dimensions": { "length": "32cm", "width": "22cm", "height": "6cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 80,
+      "deliveryChargeOutsideCity": 150,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.3, "totalReviews": 95, "reviews": [] },
+    "analytics": { "views": 11000, "soldCount": 55, "addToCartCount": 200, "wishlistCount": 850 },
+    "specification": { "general": { "model": "XPS-9320" }, "warranty": "1 year local", "manufacturer": "Dell" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-09", "name": "Dell Global", "rating": 4.5, "totalProducts": 300 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "HP Spectre x360 14",
+    "slug": "hp-spectre-x360-14-2024",
+    "shortDescription": "The world's most advanced 2-in-1 laptop.",
+    "longDescription": "The HP Spectre x360 laptop is powered by an Intel Core Ultra processor and features a stunning 2.8K OLED touchscreen. Its 360-degree hinge allows you to use it as a laptop or tablet.",
+    "media": {
+      "featuredImage": "https://example.com/hp/spectre-main.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Computers", "child": "Convertibles" },
+    "tags": ["2-in-1", "touchscreen", "spectre"],
+    "brand": "HP",
+    "pricing": {
+      "regularPrice": 1599,
+      "discountPrice": 1449,
+      "discountPercentage": 9,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 2, "pricePerUnit": 1400 }
+    },
+    "variants": [
+      {
+        "variantId": "HP-SPX-BLK",
+        "color": "Nightfall Black",
+        "size": "16GB RAM / 1TB SSD",
+        "material": "CNC Aluminum",
+        "weight": "1.45kg",
+        "price": 1449,
+        "stock": 12
+      }
+    ],
+    "inventory": {
+      "sku": "HP-SPX360-14",
+      "barcode": "196068000000",
+      "stockQuantity": 12,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 3,
+      "warehouseLocation": "Rack-L3"
+    },
+    "shipping": {
+      "weight": "2.6kg",
+      "dimensions": { "length": "33cm", "width": "23cm", "height": "7cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 80,
+      "deliveryChargeOutsideCity": 150,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.6, "totalReviews": 78, "reviews": [] },
+    "analytics": { "views": 8500, "soldCount": 38, "addToCartCount": 180, "wishlistCount": 600 },
+    "specification": { "general": { "model": "14-ef2000" }, "warranty": "2 years local", "manufacturer": "HP" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "Free Tilt Pen", "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 10, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-10", "name": "HP World", "rating": 4.4, "totalProducts": 450 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Razer Blade 16 (2024)",
+    "slug": "razer-blade-16-rtx-4090",
+    "shortDescription": "Worlds first OLED 240Hz 16-inch display.",
+    "longDescription": "The Razer Blade 16 is built for those who demand the best. With an RTX 4090 and an i9 processor, it offers desktop-class performance in a sleek, anodized aluminum body.",
+    "media": {
+      "featuredImage": "https://example.com/razer/blade16.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Computers", "child": "Gaming Laptops" },
+    "tags": ["razer", "rtx-4090", "gaming"],
+    "brand": "Razer",
+    "pricing": {
+      "regularPrice": 3599,
+      "discountPrice": 3399,
+      "discountPercentage": 6,
+      "flashSalePrice": null,
+      "bulkPrice": null
+    },
+    "variants": [
+      {
+        "variantId": "RAZ-B16-4090",
+        "color": "Classic Black",
+        "size": "32GB RAM / 2TB SSD",
+        "material": "T6 Aluminum",
+        "weight": "2.45kg",
+        "price": 3399,
+        "stock": 5
+      }
+    ],
+    "inventory": {
+      "sku": "RAZ-BLD16-PRO",
+      "barcode": "811234567890",
+      "stockQuantity": 5,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 2,
+      "warehouseLocation": "Rack-L5"
+    },
+    "shipping": {
+      "weight": "4kg",
+      "dimensions": { "length": "45cm", "width": "30cm", "height": "10cm" },
+      "shippingClass": "Fragile",
+      "deliveryChargeInsideCity": 150,
+      "deliveryChargeOutsideCity": 300,
+      "freeShipping": false,
+      "cashOnDelivery": false
+    },
+    "ratings": { "averageRating": 4.8, "totalReviews": 45, "reviews": [] },
+    "analytics": { "views": 25000, "soldCount": 15, "addToCartCount": 120, "wishlistCount": 1800 },
+    "specification": { "general": { "model": "RZ09-0510" }, "warranty": "1 year official", "manufacturer": "Razer" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": false, "returnDays": 0, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-11", "name": "Razer Store", "rating": 4.7, "totalProducts": 40 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Mac Studio M2 Ultra",
+    "slug": "mac-studio-m2-ultra-64gb",
+    "shortDescription": "Powerhouse for pros. M2 Ultra chip.",
+    "longDescription": "Mac Studio is an entirely new Mac desktop. It packs outrageous performance, extensive connectivity, and new capabilities into an unbelievably compact form.",
+    "media": {
+      "featuredImage": "https://example.com/apple/mac-studio.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Computers", "child": "Desktops" },
+    "tags": ["workstation", "apple", "m2-ultra"],
+    "brand": "Apple",
+    "pricing": {
+      "regularPrice": 3999,
+      "discountPrice": 3799,
+      "discountPercentage": 5,
+      "flashSalePrice": null,
+      "bulkPrice": null
+    },
+    "variants": [
+      {
+        "variantId": "MS-M2U-64",
+        "color": "Silver",
+        "size": "64GB RAM / 1TB SSD",
+        "material": "Aluminium",
+        "weight": "3.6kg",
+        "price": 3799,
+        "stock": 4
+      }
+    ],
+    "inventory": {
+      "sku": "APL-MAC-STUDIO-U",
+      "barcode": "194253300000",
+      "stockQuantity": 4,
+      "stockStatus": "Low Stock",
+      "lowStockAlert": 2,
+      "warehouseLocation": "Rack-L1"
+    },
+    "shipping": {
+      "weight": "5.5kg",
+      "dimensions": { "length": "25cm", "width": "25cm", "height": "15cm" },
+      "shippingClass": "Fragile",
+      "deliveryChargeInsideCity": 200,
+      "deliveryChargeOutsideCity": 400,
+      "freeShipping": true,
+      "cashOnDelivery": false
+    },
+    "ratings": { "averageRating": 5.0, "totalReviews": 30, "reviews": [] },
+    "analytics": { "views": 18000, "soldCount": 10, "addToCartCount": 50, "wishlistCount": 900 },
+    "specification": { "general": { "model": "MQH73LL/A" }, "warranty": "1 year international", "manufacturer": "Apple" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-01", "name": "Apple Store", "rating": 4.8, "totalProducts": 150 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Lenovo Yoga 9i Gen 8",
+    "slug": "lenovo-yoga-9i-2023",
+    "shortDescription": "Stunning OLED, rotating soundbar hinge.",
+    "longDescription": "The Yoga 9i features a unique rotating soundbar and a 2.8K OLED screen. It’s a stylish and powerful 2-in-1 that’s perfect for entertainment and productivity.",
+    "media": {
+      "featuredImage": "https://example.com/lenovo/yoga9i.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Computers", "child": "Convertibles" },
+    "tags": ["entertainment", "lenovo", "yoga"],
+    "brand": "Lenovo",
+    "pricing": {
+      "regularPrice": 1399,
+      "discountPrice": 1249,
+      "discountPercentage": 11,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 5, "pricePerUnit": 1199 }
+    },
+    "variants": [
+      {
+        "variantId": "LEN-Y9I-GLD",
+        "color": "Oatmeal",
+        "size": "16GB RAM / 512GB SSD",
+        "material": "Aluminium",
+        "weight": "1.4kg",
+        "price": 1249,
+        "stock": 15
+      }
+    ],
+    "inventory": {
+      "sku": "LEN-Y9I-GEN8",
+      "barcode": "196803000000",
+      "stockQuantity": 15,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 3,
+      "warehouseLocation": "Rack-L3"
+    },
+    "shipping": {
+      "weight": "2.8kg",
+      "dimensions": { "length": "35cm", "width": "24cm", "height": "6cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 80,
+      "deliveryChargeOutsideCity": 150,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.5, "totalReviews": 60, "reviews": [] },
+    "analytics": { "views": 7500, "soldCount": 28, "addToCartCount": 110, "wishlistCount": 450 },
+    "specification": { "general": { "model": "Yoga-9i" }, "warranty": "1 year local", "manufacturer": "Lenovo" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "Free Lenovo Pen", "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-12", "name": "Lenovo Hub", "rating": 4.3, "totalProducts": 600 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "MSI Stealth 16 Studio",
+    "slug": "msi-stealth-16-studio-rtx4070",
+    "shortDescription": "Slim gaming laptop with Studio certification.",
+    "longDescription": "The Stealth 16 Studio A13V comes with a slim and light design and high-end performance for both gaming and creative professional workflows.",
+    "media": {
+      "featuredImage": "https://example.com/msi/stealth16.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Computers", "child": "Gaming Laptops" },
+    "tags": ["msi", "rtx-4070", "studio"],
+    "brand": "MSI",
+    "pricing": {
+      "regularPrice": 1999,
+      "discountPrice": 1899,
+      "discountPercentage": 5,
+      "flashSalePrice": null,
+      "bulkPrice": null
+    },
+    "variants": [
+      {
+        "variantId": "MSI-S16-BLK",
+        "color": "Star Blue",
+        "size": "32GB RAM / 1TB SSD",
+        "material": "Magnesium-Aluminum",
+        "weight": "1.99kg",
+        "price": 1899,
+        "stock": 8
+      }
+    ],
+    "inventory": {
+      "sku": "MSI-STEALTH-16",
+      "barcode": "471137700000",
+      "stockQuantity": 8,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 2,
+      "warehouseLocation": "Rack-L4"
+    },
+    "shipping": {
+      "weight": "3.5kg",
+      "dimensions": { "length": "40cm", "width": "28cm", "height": "8cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 80,
+      "deliveryChargeOutsideCity": 180,
+      "freeShipping": false,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.4, "totalReviews": 42, "reviews": [] },
+    "analytics": { "views": 6000, "soldCount": 14, "addToCartCount": 90, "wishlistCount": 550 },
+    "specification": { "general": { "model": "Stealth-16" }, "warranty": "2 years official", "manufacturer": "MSI" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "MSI Gaming Mouse", "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-13", "name": "Star Tech", "rating": 4.6, "totalProducts": 5000 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Microsoft Surface Laptop 5",
+    "slug": "surface-laptop-5-13",
+    "shortDescription": "Sleek and portable with Alcantara finish.",
+    "longDescription": "Surface Laptop 5 gives you the perfect balance of sleek design and speed with Intel 12th Gen processors and a vibrant PixelSense touchscreen.",
+    "media": {
+      "featuredImage": "https://example.com/ms/surface-laptop5.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Computers", "child": "Ultrabooks" },
+    "tags": ["microsoft", "surface", "office"],
+    "brand": "Microsoft",
+    "pricing": {
+      "regularPrice": 999,
+      "discountPrice": 899,
+      "discountPercentage": 10,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 10, "pricePerUnit": 850 }
+    },
+    "variants": [
+      {
+        "variantId": "MS-SL5-GRY",
+        "color": "Sage",
+        "size": "8GB RAM / 256GB SSD",
+        "material": "Aluminium/Alcantara",
+        "weight": "1.27kg",
+        "price": 899,
+        "stock": 25
+      }
+    ],
+    "inventory": {
+      "sku": "MS-SL5-13",
+      "barcode": "889842100000",
+      "stockQuantity": 25,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 5,
+      "warehouseLocation": "Rack-L2"
+    },
+    "shipping": {
+      "weight": "2.4kg",
+      "dimensions": { "length": "33cm", "width": "23cm", "height": "6cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 80,
+      "deliveryChargeOutsideCity": 150,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.2, "totalReviews": 110, "reviews": [] },
+    "analytics": { "views": 10000, "soldCount": 65, "addToCartCount": 300, "wishlistCount": 700 },
+    "specification": { "general": { "model": "SL5-13" }, "warranty": "1 year local", "manufacturer": "Microsoft" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-06", "name": "Microsoft Store", "rating": 4.5, "totalProducts": 100 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Acer Swift Go 14",
+    "slug": "acer-swift-go-14-oled",
+    "shortDescription": "Thin, light, and OLED gorgeous.",
+    "longDescription": "The Acer Swift Go 14 brings OLED brilliance and fast performance with Intel Core i7 to a lightweight design that’s ready to go anywhere.",
+    "media": {
+      "featuredImage": "https://example.com/acer/swiftgo.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Computers", "child": "Ultrabooks" },
+    "tags": ["acer", "oled", "budget-premium"],
+    "brand": "Acer",
+    "pricing": {
+      "regularPrice": 849,
+      "discountPrice": 749,
+      "discountPercentage": 12,
+      "flashSalePrice": 699,
+      "bulkPrice": { "minQty": 5, "pricePerUnit": 680 }
+    },
+    "variants": [
+      {
+        "variantId": "ACR-SG14-SLV",
+        "color": "Pure Silver",
+        "size": "16GB RAM / 512GB SSD",
+        "material": "Aluminium",
+        "weight": "1.32kg",
+        "price": 749,
+        "stock": 35
+      }
+    ],
+    "inventory": {
+      "sku": "ACR-SWIFT-GO",
+      "barcode": "471112100000",
+      "stockQuantity": 35,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 5,
+      "warehouseLocation": "Rack-L3"
+    },
+    "shipping": {
+      "weight": "2.3kg",
+      "dimensions": { "length": "32cm", "width": "22cm", "height": "6cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 80,
+      "deliveryChargeOutsideCity": 150,
+      "freeShipping": false,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.3, "totalReviews": 50, "reviews": [] },
+    "analytics": { "views": 5000, "soldCount": 22, "addToCartCount": 140, "wishlistCount": 350 },
+    "specification": { "general": { "model": "SFG14-71" }, "warranty": "2 years local", "manufacturer": "Acer" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-14", "name": "Acer Official", "rating": 4.2, "totalProducts": 800 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Sony Alpha a7 IV Mirrorless Camera",
+    "slug": "sony-alpha-a7-iv-body",
+    "shortDescription": "Full-frame flagship performance for photos and movies.",
+    "longDescription": "The Sony Alpha a7 IV is the ideal hybrid, providing breathtaking still imagery and evolved video technology with advanced connectivity. It features a newly developed 33MP Exmor R CMOS sensor and the latest BIONZ XR processing engine.",
+    "media": {
+      "featuredImage": "https://example.com/sony/a7iv-main.jpg",
+      "images": ["https://example.com/sony/a7-1.jpg", "https://example.com/sony/a7-2.jpg"],
+      "videoUrl": "https://youtube.com/sony-a7iv-demo"
+    },
+    "category": { "main": "Electronics", "sub": "Cameras", "child": "Mirrorless" },
+    "tags": ["professional", "full-frame", "sony-alpha"],
+    "brand": "Sony",
+    "pricing": {
+      "regularPrice": 2499,
+      "discountPrice": 2299,
+      "discountPercentage": 8,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 2, "pricePerUnit": 2200 }
+    },
+    "variants": [
+      {
+        "variantId": "SNY-A7IV-B",
+        "color": "Black",
+        "size": "Body Only",
+        "material": "Magnesium Alloy",
+        "weight": "658g",
+        "price": 2299,
+        "stock": 12
+      }
+    ],
+    "inventory": {
+      "sku": "SNY-CAM-A7M4",
+      "barcode": "4548736133730",
+      "stockQuantity": 12,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 2,
+      "warehouseLocation": "Shelf-C1"
+    },
+    "shipping": {
+      "weight": "1.5kg",
+      "dimensions": { "length": "20cm", "width": "15cm", "height": "12cm" },
+      "shippingClass": "Fragile",
+      "deliveryChargeInsideCity": 100,
+      "deliveryChargeOutsideCity": 250,
+      "freeShipping": true,
+      "cashOnDelivery": false
+    },
+    "ratings": { "averageRating": 4.9, "totalReviews": 210, "reviews": [] },
+    "analytics": { "views": 32000, "soldCount": 45, "addToCartCount": 150, "wishlistCount": 890 },
+    "specification": { "general": { "model": "ILCE-7M4" }, "warranty": "2 years official", "manufacturer": "Sony" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "Free 64GB SD Card", "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-SONY-01", "name": "Sony Hub", "rating": 4.9, "totalProducts": 450 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "DJI Mini 4 Pro Fly More Combo",
+    "slug": "dji-mini-4-pro-combo",
+    "shortDescription": "Mini to the Max. 4K HDR Video, 249g.",
+    "longDescription": "DJI Mini 4 Pro is our most advanced mini-camera drone to date. It integrates powerful imaging capabilities, omnidirectional obstacle sensing, and ActiveTrack 360°. Includes the RC 2 controller and extra batteries.",
+    "media": {
+      "featuredImage": "https://example.com/dji/mini4-main.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Cameras", "child": "Drones" },
+    "tags": ["drone", "4k", "dji"],
+    "brand": "DJI",
+    "pricing": {
+      "regularPrice": 1099,
+      "discountPrice": 1059,
+      "discountPercentage": 4,
+      "flashSalePrice": null,
+      "bulkPrice": null
+    },
+    "variants": [
+      {
+        "variantId": "DJI-M4P-FMC",
+        "color": "Gray",
+        "size": "Fly More Combo",
+        "material": "High-strength Plastic",
+        "weight": "249g",
+        "price": 1059,
+        "stock": 8
+      }
+    ],
+    "inventory": {
+      "sku": "DJI-M4P-2024",
+      "barcode": "694156596000",
+      "stockQuantity": 8,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 3,
+      "warehouseLocation": "Shelf-C2"
+    },
+    "shipping": {
+      "weight": "2.2kg",
+      "dimensions": { "length": "30cm", "width": "25cm", "height": "15cm" },
+      "shippingClass": "Fragile",
+      "deliveryChargeInsideCity": 150,
+      "deliveryChargeOutsideCity": 300,
+      "freeShipping": true,
+      "cashOnDelivery": false
+    },
+    "ratings": { "averageRating": 4.8, "totalReviews": 85, "reviews": [] },
+    "analytics": { "views": 15000, "soldCount": 22, "addToCartCount": 110, "wishlistCount": 540 },
+    "specification": { "general": { "model": "MT4PD" }, "warranty": "1 year service", "manufacturer": "DJI" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": false, "returnDays": 0, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-DRONE-01", "name": "Drone Master BD", "rating": 4.7, "totalProducts": 55 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Bose QuietComfort Ultra Headphones",
+    "slug": "bose-qc-ultra-white",
+    "shortDescription": "World-class noise cancelling with spatial audio.",
+    "longDescription": "Bose QuietComfort Ultra Headphones offer the ultimate listening experience. With breakthrough spatialized audio for more immersive listening and CustomTune technology for personalized sound.",
+    "media": {
+      "featuredImage": "https://example.com/bose/ultra-main.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Audio", "child": "Headphones" },
+    "tags": ["audio", "bose", "noise-cancelling"],
+    "brand": "Bose",
+    "pricing": {
+      "regularPrice": 429,
+      "discountPrice": 379,
+      "discountPercentage": 12,
+      "flashSalePrice": 349,
+      "bulkPrice": { "minQty": 5, "pricePerUnit": 340 }
+    },
+    "variants": [
+      {
+        "variantId": "BOS-QCU-WHT",
+        "color": "White Smoke",
+        "size": "Over-Ear",
+        "material": "Leather/Plastic",
+        "weight": "250g",
+        "price": 379,
+        "stock": 35
+      }
+    ],
+    "inventory": {
+      "sku": "BOS-QC-ULTRA",
+      "barcode": "017817840000",
+      "stockQuantity": 35,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 5,
+      "warehouseLocation": "Shelf-A3"
+    },
+    "shipping": {
+      "weight": "800g",
+      "dimensions": { "length": "22cm", "width": "18cm", "height": "8cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": false,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.7, "totalReviews": 140, "reviews": [] },
+    "analytics": { "views": 9000, "soldCount": 65, "addToCartCount": 200, "wishlistCount": 450 },
+    "specification": { "general": { "model": "QC-Ultra" }, "warranty": "1 year international", "manufacturer": "Bose" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": "2024-12-25T23:59:59Z" },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-15", "name": "Premium Audio", "rating": 4.8, "totalProducts": 120 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Canon EOS R6 Mark II",
+    "slug": "canon-eos-r6-mk2-24-105",
+    "shortDescription": "Master of both worlds. 24.2MP Full-frame.",
+    "longDescription": "The Canon EOS R6 Mark II sets a new benchmark with its unique blend of speed, stability, and cinematic video features. Perfect for wedding and sports photography.",
+    "media": {
+      "featuredImage": "https://example.com/canon/r6-main.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Cameras", "child": "Mirrorless" },
+    "tags": ["canon", "r6", "photography"],
+    "brand": "Canon",
+    "pricing": {
+      "regularPrice": 2799,
+      "discountPrice": 2599,
+      "discountPercentage": 7,
+      "flashSalePrice": null,
+      "bulkPrice": null
+    },
+    "variants": [
+      {
+        "variantId": "CAN-R6M2-KIT",
+        "color": "Black",
+        "size": "24-105mm Lens Kit",
+        "material": "Polycarbonate",
+        "weight": "1.2kg",
+        "price": 2599,
+        "stock": 5
+      }
+    ],
+    "inventory": {
+      "sku": "CAN-R6MK2-KIT",
+      "barcode": "454929220000",
+      "stockQuantity": 5,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 2,
+      "warehouseLocation": "Shelf-C1"
+    },
+    "shipping": {
+      "weight": "2.5kg",
+      "dimensions": { "length": "25cm", "width": "20cm", "height": "18cm" },
+      "shippingClass": "Fragile",
+      "deliveryChargeInsideCity": 100,
+      "deliveryChargeOutsideCity": 250,
+      "freeShipping": true,
+      "cashOnDelivery": false
+    },
+    "ratings": { "averageRating": 4.8, "totalReviews": 62, "reviews": [] },
+    "analytics": { "views": 18000, "soldCount": 15, "addToCartCount": 80, "wishlistCount": 420 },
+    "specification": { "general": { "model": "R6-Mark-II" }, "warranty": "1 year official", "manufacturer": "Canon" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "Free Camera Bag", "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-16", "name": "Camera Zone", "rating": 4.6, "totalProducts": 800 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "GoPro HERO12 Black",
+    "slug": "gopro-hero-12-black-action",
+    "shortDescription": "Incredible image quality, even better HyperSmooth.",
+    "longDescription": "HERO12 Black takes GoPro's best-in-class image quality to the next level with HDR, plus improved battery life and industry-leading HyperSmooth 6.0 video stabilization.",
+    "media": {
+      "featuredImage": "https://example.com/gopro/h12-main.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Cameras", "child": "Action" },
+    "tags": ["action-cam", "waterproof", "vlog"],
+    "brand": "GoPro",
+    "pricing": {
+      "regularPrice": 399,
+      "discountPrice": 349,
+      "discountPercentage": 13,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 10, "pricePerUnit": 310 }
+    },
+    "variants": [
+      {
+        "variantId": "GOP-H12-B",
+        "color": "Black",
+        "size": "Standard",
+        "material": "Rugged Rubberized",
+        "weight": "154g",
+        "price": 349,
+        "stock": 50
+      }
+    ],
+    "inventory": {
+      "sku": "GOP-HERO12",
+      "barcode": "810079000000",
+      "stockQuantity": 50,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 10,
+      "warehouseLocation": "Shelf-C3"
+    },
+    "shipping": {
+      "weight": "500g",
+      "dimensions": { "length": "12cm", "width": "10cm", "height": "8cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": false,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.6, "totalReviews": 320, "reviews": [] },
+    "analytics": { "views": 25000, "soldCount": 450, "addToCartCount": 1200, "wishlistCount": 2100 },
+    "specification": { "general": { "model": "CHDHX-121-RW" }, "warranty": "1 year service", "manufacturer": "GoPro" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "Free Adhesive Mount", "quantityDiscount": [], "emiAvailable": false, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-17", "name": "Action Sports BD", "rating": 4.5, "totalProducts": 30 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Sennheiser Momentum 4 Wireless",
+    "slug": "sennheiser-momentum-4-black",
+    "shortDescription": "Sixty-hour battery life and audiophile sound.",
+    "longDescription": "The Momentum 4 Wireless once again raises the bar—delivering best-in-class sound quality with advanced Adaptive Noise Cancellation and exceptional comfort.",
+    "media": {
+      "featuredImage": "https://example.com/senn/m4-main.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Audio", "child": "Headphones" },
+    "tags": ["audiophile", "sennheiser", "bluetooth"],
+    "brand": "Sennheiser",
+    "pricing": {
+      "regularPrice": 379,
+      "discountPrice": 329,
+      "discountPercentage": 13,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 3, "pricePerUnit": 310 }
+    },
+    "variants": [
+      {
+        "variantId": "SEN-M4-BLK",
+        "color": "Black",
+        "size": "Over-Ear",
+        "material": "Fabric/Plastic",
+        "weight": "293g",
+        "price": 329,
+        "stock": 20
+      }
+    ],
+    "inventory": {
+      "sku": "SEN-MOM-4",
+      "barcode": "404415500000",
+      "stockQuantity": 20,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 4,
+      "warehouseLocation": "Shelf-A3"
+    },
+    "shipping": {
+      "weight": "850g",
+      "dimensions": { "length": "23cm", "width": "20cm", "height": "10cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.7, "totalReviews": 95, "reviews": [] },
+    "analytics": { "views": 11000, "soldCount": 42, "addToCartCount": 180, "wishlistCount": 600 },
+    "specification": { "general": { "model": "M4AEBT" }, "warranty": "2 years official", "manufacturer": "Sennheiser" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 10, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-15", "name": "Premium Audio", "rating": 4.8, "totalProducts": 120 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Marshall Emberton II Speaker",
+    "slug": "marshall-emberton-2-brass",
+    "shortDescription": "Compact portable speaker with loud and vibrant sound.",
+    "longDescription": "Emberton II packs a punch. Two 2-inch full range drivers and two passive radiators deliver the heavy Marshall sound you know and love.",
+    "media": {
+      "featuredImage": "https://example.com/marshall/emberton2.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Audio", "child": "Speakers" },
+    "tags": ["marshall", "portable-speaker", "outdoor"],
+    "brand": "Marshall",
+    "pricing": {
+      "regularPrice": 179,
+      "discountPrice": 159,
+      "discountPercentage": 11,
+      "flashSalePrice": 149,
+      "bulkPrice": { "minQty": 10, "pricePerUnit": 140 }
+    },
+    "variants": [
+      {
+        "variantId": "MAR-EMB2-BRS",
+        "color": "Black & Brass",
+        "size": "Portable",
+        "material": "Silicone/Metal",
+        "weight": "700g",
+        "price": 159,
+        "stock": 40
+      }
+    ],
+    "inventory": {
+      "sku": "MAR-EMB-II",
+      "barcode": "734000000000",
+      "stockQuantity": 40,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 5,
+      "warehouseLocation": "Shelf-A4"
+    },
+    "shipping": {
+      "weight": "1kg",
+      "dimensions": { "length": "18cm", "width": "10cm", "height": "10cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 50,
+      "deliveryChargeOutsideCity": 100,
+      "freeShipping": false,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.8, "totalReviews": 180, "reviews": [] },
+    "analytics": { "views": 15000, "soldCount": 210, "addToCartCount": 450, "wishlistCount": 800 },
+    "specification": { "general": { "model": "Emberton-II" }, "warranty": "1 year local", "manufacturer": "Marshall" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": false, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-18", "name": "Sound King", "rating": 4.4, "totalProducts": 250 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Insta360 X3 Action Camera",
+    "slug": "insta360-x3-pocket-camera",
+    "shortDescription": "Magic in action. 5.7K 360 degree video.",
+    "longDescription": "With 360-degree capture, action-ready hardware and AI-powered software, Insta360 X3 is the ultimate pocket camera. X3 makes it easy to capture and share your life.",
+    "media": {
+      "featuredImage": "https://example.com/insta/x3-main.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Cameras", "child": "360-Camera" },
+    "tags": ["360-degree", "vlogging", "insta360"],
+    "brand": "Insta360",
+    "pricing": {
+      "regularPrice": 449,
+      "discountPrice": 419,
+      "discountPercentage": 7,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 2, "pricePerUnit": 400 }
+    },
+    "variants": [
+      {
+        "variantId": "INS-X3-BLK",
+        "color": "Black",
+        "size": "Pocket",
+        "material": "Polycarbonate",
+        "weight": "180g",
+        "price": 419,
+        "stock": 15
+      }
+    ],
+    "inventory": {
+      "sku": "INS-X3-2023",
+      "barcode": "842126100000",
+      "stockQuantity": 15,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 3,
+      "warehouseLocation": "Shelf-C3"
+    },
+    "shipping": {
+      "weight": "600g",
+      "dimensions": { "length": "15cm", "width": "12cm", "height": "10cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.7, "totalReviews": 45, "reviews": [] },
+    "analytics": { "views": 12000, "soldCount": 38, "addToCartCount": 140, "wishlistCount": 670 },
+    "specification": { "general": { "model": "CINSAAQ/B" }, "warranty": "1 year international", "manufacturer": "Insta360" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "Free Invisible Selfie Stick", "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-17", "name": "Action Sports BD", "rating": 4.5, "totalProducts": 30 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "JBL PartyBox Stage 320",
+    "slug": "jbl-partybox-stage-320",
+    "shortDescription": "Bring the party anywhere with powerful JBL Pro Sound.",
+    "longDescription": "The JBL PartyBox Stage 320 turns any space into a party, a concert. Powerful JBL Pro Sound fills the air while an adaptive light show synced to the beat keeps the eyes busy.",
+    "media": {
+      "featuredImage": "https://example.com/jbl/pb320.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Audio", "child": "Speakers" },
+    "tags": ["jbl", "party-speaker", "bass"],
+    "brand": "JBL",
+    "pricing": {
+      "regularPrice": 599,
+      "discountPrice": 549,
+      "discountPercentage": 8,
+      "flashSalePrice": null,
+      "bulkPrice": null
+    },
+    "variants": [
+      {
+        "variantId": "JBL-PB320",
+        "color": "Black",
+        "size": "Large",
+        "material": "Hard Plastic/Metal",
+        "weight": "16.5kg",
+        "price": 549,
+        "stock": 10
+      }
+    ],
+    "inventory": {
+      "sku": "JBL-PARTY-320",
+      "barcode": "050036300000",
+      "stockQuantity": 10,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 2,
+      "warehouseLocation": "Floor-Area-B"
+    },
+    "shipping": {
+      "weight": "20kg",
+      "dimensions": { "length": "70cm", "width": "40cm", "height": "40cm" },
+      "shippingClass": "Heavy",
+      "deliveryChargeInsideCity": 300,
+      "deliveryChargeOutsideCity": 800,
+      "freeShipping": false,
+      "cashOnDelivery": false
+    },
+    "ratings": { "averageRating": 4.9, "totalReviews": 30, "reviews": [] },
+    "analytics": { "views": 8000, "soldCount": 12, "addToCartCount": 60, "wishlistCount": 300 },
+    "specification": { "general": { "model": "PB-320" }, "warranty": "1 year local", "manufacturer": "JBL" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "Free Wireless Mic", "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-18", "name": "Sound King", "rating": 4.4, "totalProducts": 250 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Nikon Z8 Mirrorless Camera",
+    "slug": "nikon-z8-body",
+    "shortDescription": "The ultimate hybrid camera. 45.7MP.",
+    "longDescription": "Built with flagship Z9 DNA, the Nikon Z8 is a compact, lightweight camera that delivers incredible video and still performance for professionals.",
+    "media": {
+      "featuredImage": "https://example.com/nikon/z8.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Cameras", "child": "Mirrorless" },
+    "tags": ["nikon", "8k-video", "professional"],
+    "brand": "Nikon",
+    "pricing": {
+      "regularPrice": 3999,
+      "discountPrice": 3699,
+      "discountPercentage": 8,
+      "flashSalePrice": null,
+      "bulkPrice": null
+    },
+    "variants": [
+      {
+        "variantId": "NIK-Z8-B",
+        "color": "Black",
+        "size": "Body Only",
+        "material": "Magnesium Alloy/Carbon Fiber",
+        "weight": "910g",
+        "price": 3699,
+        "stock": 4
+      }
+    ],
+    "inventory": {
+      "sku": "NIK-Z8-PRO",
+      "barcode": "018208000000",
+      "stockQuantity": 4,
+      "stockStatus": "Low Stock",
+      "lowStockAlert": 1,
+      "warehouseLocation": "Shelf-C1"
+    },
+    "shipping": {
+      "weight": "2kg",
+      "dimensions": { "length": "22cm", "width": "18cm", "height": "15cm" },
+      "shippingClass": "Fragile",
+      "deliveryChargeInsideCity": 100,
+      "deliveryChargeOutsideCity": 250,
+      "freeShipping": true,
+      "cashOnDelivery": false
+    },
+    "ratings": { "averageRating": 5.0, "totalReviews": 18, "reviews": [] },
+    "analytics": { "views": 14000, "soldCount": 8, "addToCartCount": 45, "wishlistCount": 380 },
+    "specification": { "general": { "model": "Z8" }, "warranty": "1 year official", "manufacturer": "Nikon" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-16", "name": "Camera Zone", "rating": 4.6, "totalProducts": 800 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Sony PlayStation 5 Slim",
+    "slug": "sony-ps5-slim-disc-edition",
+    "shortDescription": "Experience lightning-fast loading with an ultra-high speed SSD.",
+    "longDescription": "The PS5 Slim Disc Edition unleashes new gaming possibilities that you never anticipated. Enjoy smooth and fluid high frame rate gameplay at up to 120fps for compatible games, with support for 120Hz output on 4K displays.",
+    "media": {
+      "featuredImage": "https://example.com/sony/ps5-slim.jpg",
+      "images": ["https://example.com/sony/ps5-1.jpg", "https://example.com/sony/ps5-2.jpg"],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Gaming", "child": "Consoles" },
+    "tags": ["gaming", "ps5", "trending"],
+    "brand": "Sony",
+    "pricing": {
+      "regularPrice": 499,
+      "discountPrice": 475,
+      "discountPercentage": 5,
+      "flashSalePrice": 450,
+      "bulkPrice": { "minQty": 5, "pricePerUnit": 440 }
+    },
+    "variants": [
+      {
+        "variantId": "PS5-SLM-WHT",
+        "color": "White",
+        "size": "1TB SSD",
+        "material": "Plastic",
+        "weight": "3.2kg",
+        "price": 475,
+        "stock": 25
+      }
+    ],
+    "inventory": {
+      "sku": "SNY-PS5-SLIM",
+      "barcode": "711719541028",
+      "stockQuantity": 25,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 5,
+      "warehouseLocation": "Shelf-G1"
+    },
+    "shipping": {
+      "weight": "4.5kg",
+      "dimensions": { "length": "40cm", "width": "30cm", "height": "12cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 100,
+      "deliveryChargeOutsideCity": 250,
+      "freeShipping": false,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.9, "totalReviews": 1200, "reviews": [] },
+    "analytics": { "views": 55000, "soldCount": 430, "addToCartCount": 1500, "wishlistCount": 3200 },
+    "specification": { "general": { "model": "CFI-2000" }, "warranty": "1 year service", "manufacturer": "Sony" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "Free Controller Skin", "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": "2024-12-31" },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-G-01", "name": "GameShop BD", "rating": 4.7, "totalProducts": 120 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Nintendo Switch OLED Model",
+    "slug": "nintendo-switch-oled-neon",
+    "shortDescription": "7-inch OLED screen, enhanced audio, and 64GB internal storage.",
+    "longDescription": "The Nintendo Switch OLED Model features a vibrant 7-inch OLED screen that makes colors pop. Whether you’re racing at top speeds or battling enemies, the OLED screen provides a rich gaming experience.",
+    "media": {
+      "featuredImage": "https://example.com/nintendo/switch-oled.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Gaming", "child": "Handhelds" },
+    "tags": ["portable", "nintendo", "family-fun"],
+    "brand": "Nintendo",
+    "pricing": {
+      "regularPrice": 349,
+      "discountPrice": 320,
+      "discountPercentage": 8,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 3, "pricePerUnit": 310 }
+    },
+    "variants": [
+      {
+        "variantId": "NSW-OLED-NEON",
+        "color": "Neon Red/Blue",
+        "size": "64GB",
+        "material": "Plastic/Glass",
+        "weight": "420g",
+        "price": 320,
+        "stock": 18
+      }
+    ],
+    "inventory": {
+      "sku": "NIN-SW-OLED",
+      "barcode": "045496590000",
+      "stockQuantity": 18,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 3,
+      "warehouseLocation": "Shelf-G2"
+    },
+    "shipping": {
+      "weight": "1.2kg",
+      "dimensions": { "length": "25cm", "width": "15cm", "height": "10cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.8, "totalReviews": 850, "reviews": [] },
+    "analytics": { "views": 32000, "soldCount": 215, "addToCartCount": 800, "wishlistCount": 1900 },
+    "specification": { "general": { "model": "HEG-001" }, "warranty": "6 months service", "manufacturer": "Nintendo" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-G-02", "name": "Nintendo Hub", "rating": 4.6, "totalProducts": 45 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "SteelSeries Apex Pro TKL (2023)",
+    "slug": "steelseries-apex-pro-tkl",
+    "shortDescription": "The world's fastest keyboard with OmniPoint 2.0 switches.",
+    "longDescription": "The Apex Pro TKL is the fastest and most advanced keyboard, performing effortlessly for all undertakings, whether you need the fastest keystrokes in gaming to destroy the competition, or deliberate presses for typing accuracy.",
+    "media": {
+      "featuredImage": "https://example.com/steel/apex-pro.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Accessories", "child": "Keyboards" },
+    "tags": ["gaming", "mechanical", "rgb"],
+    "brand": "SteelSeries",
+    "pricing": {
+      "regularPrice": 189,
+      "discountPrice": 165,
+      "discountPercentage": 13,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 10, "pricePerUnit": 150 }
+    },
+    "variants": [
+      {
+        "variantId": "SS-APX-TKL",
+        "color": "Black",
+        "size": "TKL",
+        "material": "Aircraft Grade Aluminum",
+        "weight": "960g",
+        "price": 165,
+        "stock": 12
+      }
+    ],
+    "inventory": {
+      "sku": "SS-KBD-APEX",
+      "barcode": "570711900000",
+      "stockQuantity": 12,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 3,
+      "warehouseLocation": "Shelf-A2"
+    },
+    "shipping": {
+      "weight": "1.5kg",
+      "dimensions": { "length": "40cm", "width": "18cm", "height": "6cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": false,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.7, "totalReviews": 310, "reviews": [] },
+    "analytics": { "views": 15000, "soldCount": 85, "addToCartCount": 450, "wishlistCount": 900 },
+    "specification": { "general": { "model": "64734" }, "warranty": "1 year official", "manufacturer": "SteelSeries" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": false, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-13", "name": "Star Tech", "rating": 4.6, "totalProducts": 5000 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Corsair Virtuoso RGB Wireless SE",
+    "slug": "corsair-virtuoso-rgb-se-gunmetal",
+    "shortDescription": "High-fidelity gaming headset with spatial audio.",
+    "longDescription": "The CORSAIR Virtuoso RGB Wireless SE delivers a high-fidelity audio experience, all-day comfort from its premium memory foam earpads, and hyper-fast connectivity with SLIPSTREAM WIRELESS technology.",
+    "media": {
+      "featuredImage": "https://example.com/corsair/virtuoso.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Audio", "child": "Gaming Headsets" },
+    "tags": ["corsair", "wireless", "7.1-surround"],
+    "brand": "Corsair",
+    "pricing": {
+      "regularPrice": 209,
+      "discountPrice": 189,
+      "discountPercentage": 10,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 5, "pricePerUnit": 175 }
+    },
+    "variants": [
+      {
+        "variantId": "COR-VRT-SE",
+        "color": "Gunmetal",
+        "size": "Over-Ear",
+        "material": "Machined Aluminum",
+        "weight": "360g",
+        "price": 189,
+        "stock": 15
+      }
+    ],
+    "inventory": {
+      "sku": "COR-HEAD-VRT",
+      "barcode": "840006500000",
+      "stockQuantity": 15,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 4,
+      "warehouseLocation": "Shelf-A3"
+    },
+    "shipping": {
+      "weight": "1.1kg",
+      "dimensions": { "length": "25cm", "width": "22cm", "height": "12cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": false,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.5, "totalReviews": 140, "reviews": [] },
+    "analytics": { "views": 8500, "soldCount": 42, "addToCartCount": 180, "wishlistCount": 450 },
+    "specification": { "general": { "model": "CA-9011180-NA" }, "warranty": "2 years local", "manufacturer": "Corsair" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "Free Headset Stand", "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-11", "name": "Gamer Paradise", "rating": 4.8, "totalProducts": 320 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Samsung Odyssey G7 32\" Monitor",
+    "slug": "samsung-odyssey-g7-32-curved",
+    "shortDescription": "1000R curved gaming monitor with 240Hz refresh rate.",
+    "longDescription": "The Samsung Odyssey G7 is the world’s first 1000R curved gaming monitor, matching the curvature of the human eye for maximum immersion and minimal eye strain.",
+    "media": {
+      "featuredImage": "https://example.com/samsung/odyssey-g7.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Computers", "child": "Monitors" },
+    "tags": ["gaming-monitor", "240hz", "curved"],
+    "brand": "Samsung",
+    "pricing": {
+      "regularPrice": 799,
+      "discountPrice": 699,
+      "discountPercentage": 13,
+      "flashSalePrice": null,
+      "bulkPrice": null
+    },
+    "variants": [
+      {
+        "variantId": "SAM-G7-32",
+        "color": "Black",
+        "size": "32 Inch",
+        "material": "Plastic/Glass",
+        "weight": "8.2kg",
+        "price": 699,
+        "stock": 10
+      }
+    ],
+    "inventory": {
+      "sku": "SAM-MON-G7",
+      "barcode": "880609000000",
+      "stockQuantity": 10,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 2,
+      "warehouseLocation": "Floor-B1"
+    },
+    "shipping": {
+      "weight": "12kg",
+      "dimensions": { "length": "80cm", "width": "50cm", "height": "25cm" },
+      "shippingClass": "Heavy",
+      "deliveryChargeInsideCity": 200,
+      "deliveryChargeOutsideCity": 500,
+      "freeShipping": false,
+      "cashOnDelivery": false
+    },
+    "ratings": { "averageRating": 4.6, "totalReviews": 95, "reviews": [] },
+    "analytics": { "views": 21000, "soldCount": 38, "addToCartCount": 110, "wishlistCount": 850 },
+    "specification": { "general": { "model": "LC32G75TQSNXZA" }, "warranty": "3 years official", "manufacturer": "Samsung" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-02", "name": "Samsung Plaza", "rating": 4.6, "totalProducts": 210 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Logitech G Pro X Superlight 2",
+    "slug": "logitech-g-pro-x-superlight-2-magenta",
+    "shortDescription": "The world's fastest pro gaming mouse now even lighter.",
+    "longDescription": "Trusted by top pros, the G PRO X SUPERLIGHT 2 features LIGHTFORCE hybrid switches and the HERO 2 sensor for incredible precision and reliability.",
+    "media": {
+      "featuredImage": "https://example.com/logitech/superlight2.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Accessories", "child": "Mouse" },
+    "tags": ["logitech-g", "ultralight", "pro-gaming"],
+    "brand": "Logitech",
+    "pricing": {
+      "regularPrice": 159,
+      "discountPrice": 145,
+      "discountPercentage": 9,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 5, "pricePerUnit": 138 }
+    },
+    "variants": [
+      {
+        "variantId": "LOG-SL2-MAG",
+        "color": "Magenta",
+        "size": "Standard",
+        "material": "Plastic",
+        "weight": "60g",
+        "price": 145,
+        "stock": 22
+      }
+    ],
+    "inventory": {
+      "sku": "LOG-M-SL2",
+      "barcode": "097855000000",
+      "stockQuantity": 22,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 5,
+      "warehouseLocation": "Shelf-A2"
+    },
+    "shipping": {
+      "weight": "400g",
+      "dimensions": { "length": "15cm", "width": "10cm", "height": "6cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 50,
+      "deliveryChargeOutsideCity": 100,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.9, "totalReviews": 450, "reviews": [] },
+    "analytics": { "views": 18000, "soldCount": 160, "addToCartCount": 600, "wishlistCount": 1100 },
+    "specification": { "general": { "model": "910-006628" }, "warranty": "2 years official", "manufacturer": "Logitech" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": false, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 10, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-LOGI-01", "name": "Logitech Store", "rating": 4.9, "totalProducts": 85 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Elgato Stream Deck MK.2",
+    "slug": "elgato-stream-deck-mk2-black",
+    "shortDescription": "15 LCD keys to control your apps and tools.",
+    "longDescription": "Stream Deck MK.2 features 15 customizable LCD keys to control apps and platforms. Use the app to drag and drop actions onto keys and put them to work.",
+    "media": {
+      "featuredImage": "https://example.com/elgato/stream-deck.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Accessories", "child": "Streaming Gear" },
+    "tags": ["streaming", "elgato", "productivity"],
+    "brand": "Elgato",
+    "pricing": {
+      "regularPrice": 149,
+      "discountPrice": 139,
+      "discountPercentage": 7,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 2, "pricePerUnit": 130 }
+    },
+    "variants": [
+      {
+        "variantId": "ELG-SD-MK2",
+        "color": "Black",
+        "size": "15 Keys",
+        "material": "Plastic",
+        "weight": "270g",
+        "price": 139,
+        "stock": 30
+      }
+    ],
+    "inventory": {
+      "sku": "ELG-STRM-MK2",
+      "barcode": "810000000000",
+      "stockQuantity": 30,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 5,
+      "warehouseLocation": "Shelf-A4"
+    },
+    "shipping": {
+      "weight": "600g",
+      "dimensions": { "length": "18cm", "width": "15cm", "height": "8cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": false,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.8, "totalReviews": 210, "reviews": [] },
+    "analytics": { "views": 12000, "soldCount": 85, "addToCartCount": 300, "wishlistCount": 750 },
+    "specification": { "general": { "model": "10GBA9901" }, "warranty": "2 years local", "manufacturer": "Elgato" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "Free Icon Pack", "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-13", "name": "Star Tech", "rating": 4.6, "totalProducts": 5000 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Keychron Q1 Pro Wireless Keyboard",
+    "slug": "keychron-q1-pro-mechanical",
+    "shortDescription": "Full-metal QMK/VIA wireless mechanical keyboard.",
+    "longDescription": "The Keychron Q1 Pro is a groundbreaking full metal wireless mechanical keyboard with QMK/VIA support for the ultimate typing and gaming experience.",
+    "media": {
+      "featuredImage": "https://example.com/keychron/q1pro.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Accessories", "child": "Keyboards" },
+    "tags": ["keychron", "mechanical", "custom-keyboard"],
+    "brand": "Keychron",
+    "pricing": {
+      "regularPrice": 199,
+      "discountPrice": 189,
+      "discountPercentage": 5,
+      "flashSalePrice": null,
+      "bulkPrice": null
+    },
+    "variants": [
+      {
+        "variantId": "KEY-Q1P-GRY",
+        "color": "Carbon Grey",
+        "size": "75%",
+        "material": "CNC Aluminum",
+        "weight": "1.7kg",
+        "price": 189,
+        "stock": 8
+      }
+    ],
+    "inventory": {
+      "sku": "KEY-KBD-Q1P",
+      "barcode": "489524000000",
+      "stockQuantity": 8,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 2,
+      "warehouseLocation": "Shelf-A2"
+    },
+    "shipping": {
+      "weight": "2.2kg",
+      "dimensions": { "length": "35cm", "width": "18cm", "height": "8cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 80,
+      "deliveryChargeOutsideCity": 150,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.9, "totalReviews": 65, "reviews": [] },
+    "analytics": { "views": 7000, "soldCount": 24, "addToCartCount": 110, "wishlistCount": 400 },
+    "specification": { "general": { "model": "Q1P-M1" }, "warranty": "1 year local", "manufacturer": "Keychron" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": false, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-19", "name": "Keyboard Enthusiast", "rating": 4.9, "totalProducts": 150 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Razer Leviathan V2 Soundbar",
+    "slug": "razer-leviathan-v2-chroma",
+    "shortDescription": "Multi-driver PC soundbar with subwoofer and RGB.",
+    "longDescription": "The Razer Leviathan V2 is a multi-driver gaming soundbar and subwoofer featuring THX Spatial Audio and Razer Chroma RGB for total immersion.",
+    "media": {
+      "featuredImage": "https://example.com/razer/leviathan.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Audio", "child": "Speakers" },
+    "tags": ["razer", "gaming-audio", "rgb"],
+    "brand": "Razer",
+    "pricing": {
+      "regularPrice": 249,
+      "discountPrice": 225,
+      "discountPercentage": 10,
+      "flashSalePrice": null,
+      "bulkPrice": null
+    },
+    "variants": [
+      {
+        "variantId": "RAZ-LEV-V2",
+        "color": "Black",
+        "size": "Soundbar + Sub",
+        "material": "Plastic/Metal",
+        "weight": "5.4kg",
+        "price": 225,
+        "stock": 10
+      }
+    ],
+    "inventory": {
+      "sku": "RAZ-SPK-LEV",
+      "barcode": "811234000000",
+      "stockQuantity": 10,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 3,
+      "warehouseLocation": "Floor-A1"
+    },
+    "shipping": {
+      "weight": "7kg",
+      "dimensions": { "length": "55cm", "width": "25cm", "height": "25cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 150,
+      "deliveryChargeOutsideCity": 300,
+      "freeShipping": false,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.5, "totalReviews": 82, "reviews": [] },
+    "analytics": { "views": 10000, "soldCount": 45, "addToCartCount": 180, "wishlistCount": 550 },
+    "specification": { "general": { "model": "RZ05-0392" }, "warranty": "1 year official", "manufacturer": "Razer" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-11", "name": "Razer Store", "rating": 4.7, "totalProducts": 40 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Secretlab TITAN Evo 2024 Series",
+    "slug": "secretlab-titan-evo-2024-leather",
+    "shortDescription": "The ultimate gaming chair with adaptive lumbar support.",
+    "longDescription": "Engineered for pro-grade support, the Secretlab TITAN Evo is the most technologically advanced gaming chair ever, providing personalized ergonomics for all-day comfort.",
+    "media": {
+      "featuredImage": "https://example.com/secretlab/titan-evo.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Furniture", "sub": "Gaming", "child": "Chairs" },
+    "tags": ["premium-chair", "ergonomic", "gaming"],
+    "brand": "Secretlab",
+    "pricing": {
+      "regularPrice": 599,
+      "discountPrice": 549,
+      "discountPercentage": 8,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 2, "pricePerUnit": 520 }
+    },
+    "variants": [
+      {
+        "variantId": "SEC-TIT-EVO-L",
+        "color": "Stealth Black",
+        "size": "Large",
+        "material": "Hybrid Leatherette",
+        "weight": "34.5kg",
+        "price": 549,
+        "stock": 5
+      }
+    ],
+    "inventory": {
+      "sku": "SEC-CHAIR-TITAN",
+      "barcode": "SEC889000000",
+      "stockQuantity": 5,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 1,
+      "warehouseLocation": "Floor-Warehouse-2"
+    },
+    "shipping": {
+      "weight": "38kg",
+      "dimensions": { "length": "85cm", "width": "70cm", "height": "40cm" },
+      "shippingClass": "Heavy",
+      "deliveryChargeInsideCity": 500,
+      "deliveryChargeOutsideCity": 1200,
+      "freeShipping": false,
+      "cashOnDelivery": false
+    },
+    "ratings": { "averageRating": 4.9, "totalReviews": 2100, "reviews": [] },
+    "analytics": { "views": 45000, "soldCount": 110, "addToCartCount": 400, "wishlistCount": 1200 },
+    "specification": { "general": { "model": "TITAN-EVO-2024" }, "warranty": "5 years official", "manufacturer": "Secretlab" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "Free Magnetic Head Pillow", "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": false, "returnDays": 0, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-CH-01", "name": "Secretlab BD", "rating": 4.9, "totalProducts": 15 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Apple Watch Ultra 2",
+    "slug": "apple-watch-ultra-2-titanium",
+    "shortDescription": "The most rugged and capable Apple Watch.",
+    "longDescription": "Apple Watch Ultra 2 is built for unparalleled performance. Light, rugged, and corrosion-resistant titanium case. Brightest Always-On Retina display. Precision dual-frequency GPS.",
+    "media": {
+      "featuredImage": "https://example.com/apple/watch-ultra2.jpg",
+      "images": ["https://example.com/apple/awu-1.jpg"],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Wearables", "child": "Smartwatches" },
+    "tags": ["apple", "smartwatch", "fitness"],
+    "brand": "Apple",
+    "pricing": {
+      "regularPrice": 799,
+      "discountPrice": 775,
+      "discountPercentage": 3,
+      "flashSalePrice": null,
+      "bulkPrice": null
+    },
+    "variants": [
+      {
+        "variantId": "AWU2-TIT-ORG",
+        "color": "Titanium",
+        "size": "49mm / Orange Loop",
+        "material": "Aerospace Titanium",
+        "weight": "61.4g",
+        "price": 775,
+        "stock": 15
+      }
+    ],
+    "inventory": {
+      "sku": "APL-WATCH-U2",
+      "barcode": "195949000000",
+      "stockQuantity": 15,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 3,
+      "warehouseLocation": "Shelf-W1"
+    },
+    "shipping": {
+      "weight": "0.5kg",
+      "dimensions": { "length": "20cm", "width": "10cm", "height": "5cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.9, "totalReviews": 420, "reviews": [] },
+    "analytics": { "views": 28000, "soldCount": 85, "addToCartCount": 450, "wishlistCount": 1800 },
+    "specification": { "general": { "model": "A2986" }, "warranty": "1 year international", "manufacturer": "Apple" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-01", "name": "Apple Store", "rating": 4.8, "totalProducts": 150 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Samsung Galaxy Watch 6 Classic",
+    "slug": "samsung-galaxy-watch-6-classic-47mm",
+    "shortDescription": "The return of the iconic rotating bezel.",
+    "longDescription": "Galaxy Watch 6 Classic features a timeless look with a rotating bezel for easy navigation. Advanced sleep coaching, heart health monitoring, and a 20% larger display.",
+    "media": {
+      "featuredImage": "https://example.com/samsung/watch6-classic.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Wearables", "child": "Smartwatches" },
+    "tags": ["samsung", "android-watch", "classic"],
+    "brand": "Samsung",
+    "pricing": {
+      "regularPrice": 399,
+      "discountPrice": 349,
+      "discountPercentage": 12,
+      "flashSalePrice": 320,
+      "bulkPrice": { "minQty": 5, "pricePerUnit": 310 }
+    },
+    "variants": [
+      {
+        "variantId": "SAM-W6C-BLK",
+        "color": "Black",
+        "size": "47mm",
+        "material": "Stainless Steel",
+        "weight": "59g",
+        "price": 349,
+        "stock": 25
+      }
+    ],
+    "inventory": {
+      "sku": "SAM-W6C-47",
+      "barcode": "880609500000",
+      "stockQuantity": 25,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 5,
+      "warehouseLocation": "Shelf-W2"
+    },
+    "shipping": {
+      "weight": "0.4kg",
+      "dimensions": { "length": "18cm", "width": "10cm", "height": "5cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.7, "totalReviews": 180, "reviews": [] },
+    "analytics": { "views": 15000, "soldCount": 95, "addToCartCount": 320, "wishlistCount": 850 },
+    "specification": { "general": { "model": "SM-R960" }, "warranty": "1 year local", "manufacturer": "Samsung" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "Free Leather Strap", "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-02", "name": "Samsung Plaza", "rating": 4.6, "totalProducts": 210 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Garmin fēnix 7X Pro Sapphire Solar",
+    "slug": "garmin-fenix-7x-pro-solar",
+    "shortDescription": "Multisport GPS watch with solar charging and built-in flashlight.",
+    "longDescription": "The fēnix 7X Pro is the ultimate multisport GPS watch. Featuring a large 1.4-inch solar charged display, built-in LED flashlight, and advanced training metrics for endurance athletes.",
+    "media": {
+      "featuredImage": "https://example.com/garmin/fenix7x.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Wearables", "child": "Fitness-Watch" },
+    "tags": ["garmin", "outdoor", "solar"],
+    "brand": "Garmin",
+    "pricing": {
+      "regularPrice": 999,
+      "discountPrice": 899,
+      "discountPercentage": 10,
+      "flashSalePrice": null,
+      "bulkPrice": null
+    },
+    "variants": [
+      {
+        "variantId": "GAR-F7X-BLK",
+        "color": "Carbon Gray",
+        "size": "51mm",
+        "material": "Fiber-reinforced Polymer / Titanium",
+        "weight": "89g",
+        "price": 899,
+        "stock": 8
+      }
+    ],
+    "inventory": {
+      "sku": "GAR-FENIX-7X",
+      "barcode": "753759310000",
+      "stockQuantity": 8,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 2,
+      "warehouseLocation": "Shelf-W1"
+    },
+    "shipping": {
+      "weight": "0.6kg",
+      "dimensions": { "length": "15cm", "width": "15cm", "height": "10cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": true,
+      "cashOnDelivery": false
+    },
+    "ratings": { "averageRating": 4.9, "totalReviews": 85, "reviews": [] },
+    "analytics": { "views": 12000, "soldCount": 24, "addToCartCount": 90, "wishlistCount": 420 },
+    "specification": { "general": { "model": "010-02778-10" }, "warranty": "2 years official", "manufacturer": "Garmin" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-20", "name": "Active Life BD", "rating": 4.8, "totalProducts": 45 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Philips Hue Bridge & Bulb Starter Kit",
+    "slug": "philips-hue-starter-kit-rgb",
+    "shortDescription": "Smart lighting for your home with 16 million colors.",
+    "longDescription": "Set the mood in any room with the Philips Hue Starter Kit. Includes 3 smart bulbs and the Bridge, allowing you to control lights via app or voice.",
+    "media": {
+      "featuredImage": "https://example.com/philips/hue-kit.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Smart Home", "child": "Lighting" },
+    "tags": ["smart-light", "philips-hue", "automation"],
+    "brand": "Philips",
+    "pricing": {
+      "regularPrice": 199,
+      "discountPrice": 179,
+      "discountPercentage": 10,
+      "flashSalePrice": 159,
+      "bulkPrice": { "minQty": 3, "pricePerUnit": 165 }
+    },
+    "variants": [
+      {
+        "variantId": "PHL-HUE-KIT",
+        "color": "Multicolor",
+        "size": "E27 / 3 Bulbs",
+        "material": "Synthetic",
+        "weight": "1.1kg",
+        "price": 179,
+        "stock": 40
+      }
+    ],
+    "inventory": {
+      "sku": "PHL-HUE-START",
+      "barcode": "871869900000",
+      "stockQuantity": 40,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 10,
+      "warehouseLocation": "Shelf-S1"
+    },
+    "shipping": {
+      "weight": "1.5kg",
+      "dimensions": { "length": "25cm", "width": "20cm", "height": "10cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": false,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.8, "totalReviews": 310, "reviews": [] },
+    "analytics": { "views": 18000, "soldCount": 145, "addToCartCount": 400, "wishlistCount": 920 },
+    "specification": { "general": { "model": "HUE-WACA" }, "warranty": "2 years international", "manufacturer": "Philips" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": false, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-21", "name": "Smart Home Hub", "rating": 4.5, "totalProducts": 85 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "August Wi-Fi Smart Lock (4th Gen)",
+    "slug": "august-wifi-smart-lock-4",
+    "shortDescription": "Keyless entry for your home. No bridge required.",
+    "longDescription": "The August Wi-Fi Smart Lock allows you to lock and unlock your door from anywhere. It attaches easily to your existing deadbolt.",
+    "media": {
+      "featuredImage": "https://example.com/august/lock4.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Smart Home", "child": "Security" },
+    "tags": ["smart-lock", "security", "home-automation"],
+    "brand": "August",
+    "pricing": {
+      "regularPrice": 229,
+      "discountPrice": 199,
+      "discountPercentage": 13,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 5, "pricePerUnit": 185 }
+    },
+    "variants": [
+      {
+        "variantId": "AUG-L4-SLV",
+        "color": "Silver",
+        "size": "Standard",
+        "material": "Metal",
+        "weight": "400g",
+        "price": 199,
+        "stock": 12
+      }
+    ],
+    "inventory": {
+      "sku": "AUG-LOCK-4",
+      "barcode": "850012000000",
+      "stockQuantity": 12,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 3,
+      "warehouseLocation": "Shelf-S2"
+    },
+    "shipping": {
+      "weight": "0.7kg",
+      "dimensions": { "length": "12cm", "width": "12cm", "height": "10cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.4, "totalReviews": 95, "reviews": [] },
+    "analytics": { "views": 8000, "soldCount": 38, "addToCartCount": 120, "wishlistCount": 340 },
+    "specification": { "general": { "model": "AUG-SL04-C01-S04" }, "warranty": "1 year local", "manufacturer": "August Home" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 10, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-21", "name": "Smart Home Hub", "rating": 4.5, "totalProducts": 85 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Ecobee Smart Thermostat Premium",
+    "slug": "ecobee-smart-thermostat-premium",
+    "shortDescription": "Built-in air quality monitor and Siri/Alexa support.",
+    "longDescription": "The Ecobee Smart Thermostat Premium saves you money on energy while keeping you comfortable. Includes an extra sensor for balanced cooling/heating.",
+    "media": {
+      "featuredImage": "https://example.com/ecobee/thermostat.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Smart Home", "child": "Climate Control" },
+    "tags": ["energy-saving", "ecobee", "smart-home"],
+    "brand": "Ecobee",
+    "pricing": {
+      "regularPrice": 249,
+      "discountPrice": 229,
+      "discountPercentage": 8,
+      "flashSalePrice": null,
+      "bulkPrice": null
+    },
+    "variants": [
+      {
+        "variantId": "ECO-THM-PRM",
+        "color": "Zinc",
+        "size": "Standard",
+        "material": "Metal/Glass",
+        "weight": "500g",
+        "price": 229,
+        "stock": 20
+      }
+    ],
+    "inventory": {
+      "sku": "ECO-THERM-P",
+      "barcode": "627749000000",
+      "stockQuantity": 20,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 4,
+      "warehouseLocation": "Shelf-S3"
+    },
+    "shipping": {
+      "weight": "0.9kg",
+      "dimensions": { "length": "15cm", "width": "15cm", "height": "8cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.7, "totalReviews": 150, "reviews": [] },
+    "analytics": { "views": 10000, "soldCount": 55, "addToCartCount": 180, "wishlistCount": 450 },
+    "specification": { "general": { "model": "EB-STATE6P-01" }, "warranty": "3 years limited", "manufacturer": "Ecobee" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "Includes SmartSensor", "quantityDiscount": [], "emiAvailable": false, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 15, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-21", "name": "Smart Home Hub", "rating": 4.5, "totalProducts": 85 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Google Nest Cam (Battery)",
+    "slug": "google-nest-cam-outdoor-indoor",
+    "shortDescription": "Wireless security camera for indoor and outdoor use.",
+    "longDescription": "Nest Cam alerts you to what matters. It can tell the difference between a person, vehicle, and animal. Battery power means easy installation anywhere.",
+    "media": {
+      "featuredImage": "https://example.com/google/nest-cam.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Smart Home", "child": "Security" },
+    "tags": ["google-nest", "camera", "outdoor"],
+    "brand": "Google",
+    "pricing": {
+      "regularPrice": 179,
+      "discountPrice": 159,
+      "discountPercentage": 11,
+      "flashSalePrice": 145,
+      "bulkPrice": { "minQty": 4, "pricePerUnit": 140 }
+    },
+    "variants": [
+      {
+        "variantId": "GGL-NC-WHT",
+        "color": "Snow",
+        "size": "Battery Edition",
+        "material": "Recycled Plastic",
+        "weight": "398g",
+        "price": 159,
+        "stock": 35
+      }
+    ],
+    "inventory": {
+      "sku": "GGL-NST-CAM-B",
+      "barcode": "193575000000",
+      "stockQuantity": 35,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 5,
+      "warehouseLocation": "Shelf-S2"
+    },
+    "shipping": {
+      "weight": "0.8kg",
+      "dimensions": { "length": "12cm", "width": "12cm", "height": "12cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 60,
+      "deliveryChargeOutsideCity": 120,
+      "freeShipping": true,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.5, "totalReviews": 220, "reviews": [] },
+    "analytics": { "views": 15000, "soldCount": 110, "addToCartCount": 350, "wishlistCount": 800 },
+    "specification": { "general": { "model": "GA01317-US" }, "warranty": "1 year service", "manufacturer": "Google" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": false, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-06", "name": "Google Store", "rating": 4.5, "totalProducts": 100 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Whoop 4.0 Fitness Tracker",
+    "slug": "whoop-4-0-black-band",
+    "shortDescription": "24/7 fitness tracker with a subscription-based model.",
+    "longDescription": "The most advanced WHOOP ever. Smaller, smarter, and designed with new biometric tracking including skin temperature and blood oxygen.",
+    "media": {
+      "featuredImage": "https://example.com/whoop/whoop4.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Wearables", "child": "Fitness-Tracker" },
+    "tags": ["whoop", "performance", "no-screen"],
+    "brand": "Whoop",
+    "pricing": {
+      "regularPrice": 239,
+      "discountPrice": 239,
+      "discountPercentage": 0,
+      "flashSalePrice": null,
+      "bulkPrice": null
+    },
+    "variants": [
+      {
+        "variantId": "WHP-4-BLK",
+        "color": "Onyx",
+        "size": "Standard Strap",
+        "material": "SuperKnit Fabric",
+        "weight": "33g",
+        "price": 239,
+        "stock": 10
+      }
+    ],
+    "inventory": {
+      "sku": "WHOOP-4-0",
+      "barcode": "850029000000",
+      "stockQuantity": 10,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 2,
+      "warehouseLocation": "Shelf-W3"
+    },
+    "shipping": {
+      "weight": "0.3kg",
+      "dimensions": { "length": "10cm", "width": "10cm", "height": "5cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 50,
+      "deliveryChargeOutsideCity": 100,
+      "freeShipping": true,
+      "cashOnDelivery": false
+    },
+    "ratings": { "averageRating": 4.3, "totalReviews": 65, "reviews": [] },
+    "analytics": { "views": 9000, "soldCount": 18, "addToCartCount": 85, "wishlistCount": 310 },
+    "specification": { "general": { "model": "WHOOP-4" }, "warranty": "1 year limited", "manufacturer": "Whoop" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "Includes 12-month sub", "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": false, "returnDays": 0, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-20", "name": "Active Life BD", "rating": 4.8, "totalProducts": 45 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Aura Air Purifier",
+    "slug": "aura-air-smart-purifier",
+    "shortDescription": "The world's smartest air management system.",
+    "longDescription": "Aura Air filters and disinfects indoor air through a unique 4-stage purification process while monitoring air quality in real-time.",
+    "media": {
+      "featuredImage": "https://example.com/aura/purifier.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Appliances", "sub": "Smart Home", "child": "Air Quality" },
+    "tags": ["air-purifier", "hepa", "smart-appliance"],
+    "brand": "Aura",
+    "pricing": {
+      "regularPrice": 499,
+      "discountPrice": 449,
+      "discountPercentage": 10,
+      "flashSalePrice": null,
+      "bulkPrice": { "minQty": 3, "pricePerUnit": 420 }
+    },
+    "variants": [
+      {
+        "variantId": "AUR-AIR-1",
+        "color": "White",
+        "size": "Standard",
+        "material": "Polymer",
+        "weight": "3.5kg",
+        "price": 449,
+        "stock": 15
+      }
+    ],
+    "inventory": {
+      "sku": "AURA-AIR-SMART",
+      "barcode": "729000000000",
+      "stockQuantity": 15,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 3,
+      "warehouseLocation": "Floor-B2"
+    },
+    "shipping": {
+      "weight": "4.5kg",
+      "dimensions": { "length": "40cm", "width": "40cm", "height": "15cm" },
+      "shippingClass": "Standard",
+      "deliveryChargeInsideCity": 100,
+      "deliveryChargeOutsideCity": 250,
+      "freeShipping": true,
+      "cashOnDelivery": false
+    },
+    "ratings": { "averageRating": 4.6, "totalReviews": 28, "reviews": [] },
+    "analytics": { "views": 5000, "soldCount": 12, "addToCartCount": 45, "wishlistCount": 150 },
+    "specification": { "general": { "model": "Aura-01" }, "warranty": "1 year local", "manufacturer": "Aura Smart Air" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": "Free Filter Set", "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": false },
+    "seller": [{ "sellerId": "SELL-21", "name": "Smart Home Hub", "rating": 4.5, "totalProducts": 85 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  },
+  {
+    "title": "Withings Body Scan Smart Scale",
+    "slug": "withings-body-scan-scale-black",
+    "shortDescription": "Advanced body composition and segmental analysis.",
+    "longDescription": "The most advanced smart scale ever. It provides segmental body composition, heart rate, and vascular age monitoring to give you a complete health picture.",
+    "media": {
+      "featuredImage": "https://example.com/withings/bodyscan.jpg",
+      "images": [],
+      "videoUrl": null
+    },
+    "category": { "main": "Electronics", "sub": "Wearables", "child": "Health-Tech" },
+    "tags": ["smart-scale", "withings", "health"],
+    "brand": "Withings",
+    "pricing": {
+      "regularPrice": 399,
+      "discountPrice": 379,
+      "discountPercentage": 5,
+      "flashSalePrice": null,
+      "bulkPrice": null
+    },
+    "variants": [
+      {
+        "variantId": "WIT-BSCAN-BLK",
+        "color": "Black",
+        "size": "Standard",
+        "material": "Tempered Glass",
+        "weight": "2.5kg",
+        "price": 379,
+        "stock": 10
+      }
+    ],
+    "inventory": {
+      "sku": "WIT-BODY-SCAN",
+      "barcode": "370054000000",
+      "stockQuantity": 10,
+      "stockStatus": "In Stock",
+      "lowStockAlert": 2,
+      "warehouseLocation": "Shelf-S4"
+    },
+    "shipping": {
+      "weight": "3.2kg",
+      "dimensions": { "length": "35cm", "width": "35cm", "height": "6cm" },
+      "shippingClass": "Fragile",
+      "deliveryChargeInsideCity": 80,
+      "deliveryChargeOutsideCity": 180,
+      "freeShipping": false,
+      "cashOnDelivery": true
+    },
+    "ratings": { "averageRating": 4.8, "totalReviews": 42, "reviews": [] },
+    "analytics": { "views": 6000, "soldCount": 15, "addToCartCount": 60, "wishlistCount": 220 },
+    "specification": { "general": { "model": "WBS08" }, "warranty": "1 year international", "manufacturer": "Withings" },
+    "offers": { "buyOneGetOne": false, "bundleOffer": null, "quantityDiscount": [], "emiAvailable": true, "flashSaleEndTime": null },
+    "returnPolicy": { "isReturnable": true, "returnDays": 7, "replacementOnly": true },
+    "seller": [{ "sellerId": "SELL-20", "name": "Active Life BD", "rating": 4.8, "totalProducts": 45 }],
+    "creator": { "creatorName": "Admin", "creatorEmail": "admin@example.com" },
+    "status": "Published"
+  }
+]
